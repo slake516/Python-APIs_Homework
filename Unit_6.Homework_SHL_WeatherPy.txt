@@ -1,0 +1,5 @@
+Homework_Unit 6 - API:  WeatherPy
+Observations:
+1. The data from 500 plus random cities indicates a correlation between temperature increase as the location approaches the equator.  However, the highest temperatures fall just above and below latitude 0 within a range of -30? to +30? degrees latitude.  
+2. The data did not provide an indication of any correlation between cloudiness levels and location near the equator. It does not appear that location near the equator is a predictor of cloudiness.
+3. The data also does not show a direct relationship between a city’s location relative to the equator and its level of humidity. Therefore, it cannot be assumed that cities near the equator have high humidity.
